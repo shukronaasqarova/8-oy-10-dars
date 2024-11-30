@@ -1,0 +1,21 @@
+/* styles/globals.css */
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/LibreBaskerville-Regular.woff2') format('woff2'),
+         url('/fonts/LibreBaskerville-Regular.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Libre Baskerville';
+    font-style: bold;
+    font-weight: 700;
+    src: url('/fonts/LibreBaskerville-Bold.woff2') format('woff2'),
+         url('/fonts/LibreBaskerville-Bold.woff') format('woff');
+  }
+  
+  /* body {
+    font-family: 'Libre Baskerville', serif;
+  }
+   */
