@@ -58,15 +58,15 @@ function Home() {
                                 </button>
                             </div>
                             <div>
-                                <img className='w-72 h-96' src='./first.png' alt="Image description" />
+                                <img className='w-[566px] h-[720px]' src='./first.png' alt="Image description" />
                             </div>
-                            <div className='absolute top-0 left-0'>
+                            <div className='absolute top-20 left-0'>
                                 <img className='' src="./one.png" alt="" />
                             </div>
                         </div>
                         <div className='flex items-center gap-[264px] relative'>
                             <div>
-                                <img className='w-72 h-96' src='./second.png' alt="Image description" />
+                                <img className='w-[566px] h-[720px]' src='./second.png' alt="Image description" />
                             </div>
                             <div>
                                 <div className='flex items-center gap-2 text-[#FBD784] mb-7'>
@@ -85,7 +85,7 @@ function Home() {
                                     <FaArrowRight className='w-4 h-4' />
                                 </button>
                             </div>
-                            <div className='absolute top-0 right-[600px]'>
+                            <div className='absolute top-12 right-[500px]'>
                                 <img className='' src="./two.png" alt="" />
                             </div>
                         </div>
@@ -105,9 +105,9 @@ function Home() {
                                 </button>
                             </div>
                             <div>
-                                <img className='w-72 h-96' src='./third.png' alt="Image description" />
+                                <img className='w-[566px] h-[720px]' src='./third.png' alt="Image description" />
                             </div>
-                            <div className='absolute bottom-[280px] left-0'>
+                            <div className='absolute bottom-[480px] left-0'>
                                 <img className='' src="./three.png" alt="" />
                             </div>
                         </div>
